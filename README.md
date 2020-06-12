@@ -1,4 +1,4 @@
-# H# How to use this script
+# How to use this script
 
 To To use this script, run `bash seqClass.sh "DNA OR RNA STRING"`
 
